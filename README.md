@@ -8,5 +8,4 @@ A mobile application developed in flutter to keep track of daily calorie needs.
 - The JSON response recieved from the ML Vision API containing the name of food item is referenced with the [Food API](https://api.nal.usda.gov/fdc) d.atabse to get nutritional facts.
 
 
-! [Nutriscan]
-(https://github.com/praveenhonavar/NutriScan/blob/master/Screenshots/All.png)
+! [Nutriscan](https://github.com/praveenhonavar/NutriScan/blob/master/Screenshots/All.png)
