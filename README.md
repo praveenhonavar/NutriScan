@@ -9,4 +9,4 @@ A mobile application developed in flutter to keep track of daily calorie needs.
 
 
 ![Nutriscan]
-(https://github.com/praveenhonavar/NutriScan/blob/master/Screenshots/Group%209.png)
+(https://github.com/praveenhonavar/NutriScan/blob/master/Screenshots/All.png)
