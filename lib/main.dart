@@ -8,8 +8,10 @@ import 'package:flutter_ml/splashscreen.dart';
 
 void main() => runApp(
       MaterialApp(
+        // darkTheme: ThemeData.dark(),
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
+
           fontFamily: 'Poppins',
         ),
         initialRoute: 's',

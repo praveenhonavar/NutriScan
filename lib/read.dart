@@ -455,14 +455,7 @@ class _ReadState extends State<Read> {
                           Row(
                             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                             children: <Widget>[
-                              FloatingActionButton(
-                                heroTag: 'add',
-                                backgroundColor: Colors.green,
-                                onPressed: () => addCounter(context),
-                                child: Icon(
-                                  Icons.done,
-                                ),
-                              ),
+                             
                               FloatingActionButton(
                                 heroTag: 'remove',
                                 backgroundColor: Colors.red,
@@ -471,6 +464,15 @@ class _ReadState extends State<Read> {
                                 child: Icon(
                                   Icons.clear,
                                   semanticLabel: 'Dont Add',
+                                ),
+                              ),
+
+                               FloatingActionButton(
+                                heroTag: 'add',
+                                backgroundColor: Colors.green,
+                                onPressed: () => addCounter(context),
+                                child: Icon(
+                                  Icons.done,
                                 ),
                               ),
                             ],
